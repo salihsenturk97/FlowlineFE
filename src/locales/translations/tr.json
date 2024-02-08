@@ -1,0 +1,16 @@
+{
+  "signUp": "Kaydol",
+  "username": "Kullanıcı Adı",
+  "email": "E-Posta",
+  "password": "Şifre",
+  "passwordRepeat": "Şifre Tekrarı",
+  "passwordMismatch": "Şifreler uyuşmuyor",
+  "genericError": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin.",
+  "userNotFoundError": "Kullanıcı Bulunamadı",
+  "login": "Giriş",
+  "userList": "Kullanıcı Listesi",
+  "previous": "Geri",
+  "next": "İleri",
+  "logout":"Çıkış",
+  "myProfile": "Profilim"
+}
